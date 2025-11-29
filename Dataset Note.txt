@@ -1,0 +1,5 @@
+Dataset Note:
+
+The dataset attached to GitHub is a portion of the dataset used, not the entire data set due to file upload limitations.
+
+The complete dataset can be accessed on Kaggle.
